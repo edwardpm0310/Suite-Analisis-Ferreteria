@@ -1,0 +1,201 @@
+id_cliente,nombre,dni_ruc,tipo_cliente
+1,Gracia Delfina Osorio Sanjuan,85822412M,Maestro de obra
+2,Marisela Cabezas Landa,03356886J,Público general
+3,Nazaret Esperanza Cadenas Rovira,36913810Y,Maestro de obra
+4,Encarna Juárez Téllez,29958838G,Maestro de obra
+5,Calisto Ibán Pazos Marin,98847493W,Maestro de obra
+6,Griselda Huguet,90825067E,Público general
+7,Rosa María Gual Sans,73197857N,Maestro de obra
+8,Gustavo Neira,79254563J,Contratista
+9,Jovita Ballester Capdevila,04265799N,Maestro de obra
+10,Yago del Abascal,12575562J,Maestro de obra
+11,María Ángeles Expósito Belmonte,31227216R,Público general
+12,Aránzazu Vilar Adán,80801586X,Maestro de obra
+13,Eva María Vilar,75329037N,Maestro de obra
+14,Nacho Hernandez Cadenas,96102525S,Público general
+15,Florencio de Rosell,94130244F,Público general
+16,Miguel Ángel Abascal Cabanillas,56306997F,Maestro de obra
+17,Tere Rosa-Nogueira,60291817P,Público general
+18,Jesusa Mateu,37338124Q,Maestro de obra
+19,Elvira Recio Capdevila,21429110X,Público general
+20,Ulises Rodrigo Sosa Berenguer,56722344C,Contratista
+21,Miguel Sandoval Posada,37295260R,Maestro de obra
+22,Amada Suárez Quintana,28898923K,Contratista
+23,Aurora Amigó Aragonés,13718431N,Maestro de obra
+24,Melchor Trillo Coll,50992979R,Maestro de obra
+25,Trinidad Escobar Bustos,48181396F,Contratista
+26,Loreto Tamayo,81030736B,Contratista
+27,Pía Colom Gargallo,05831819P,Público general
+28,Tomasa Maura Mora Gómez,61662963D,Público general
+29,Iris Escrivá Portero,16753883Q,Contratista
+30,Coral Álvarez Piñeiro,10576383V,Público general
+31,Charo Ariel Ocaña Azorin,39349722B,Público general
+32,Blas del Aramburu,83016315T,Contratista
+33,Julie Quero Solano,77490893Y,Maestro de obra
+34,Ismael Sureda Valls,94566031J,Maestro de obra
+35,Demetrio Aguilar Pujol,06150444Z,Público general
+36,Calista Valls Huertas,30587988N,Contratista
+37,Roxana Figueroa-Bertrán,10709497F,Maestro de obra
+38,Eric Losa-Escalona,13556182M,Contratista
+39,Lisandro del Trujillo,37308985H,Contratista
+40,Ariel Prieto Sobrino,85320121B,Contratista
+41,Lourdes de Aguilar,21831063S,Contratista
+42,Anselma Navarro Madrid,47683626A,Maestro de obra
+43,Chelo Madrid Toledo,89949389T,Contratista
+44,Norberto Olivera Goicoechea,94196727C,Público general
+45,Amor Naranjo-Borja,86977837W,Maestro de obra
+46,Macarena Cámara Criado,81756179B,Público general
+47,Paca Tejada Calderón,22969840Q,Público general
+48,Chuy Roda Pinilla,97861742P,Maestro de obra
+49,Américo del Sáez,21931511E,Contratista
+50,Nilo Sala Gomez,50929647B,Contratista
+51,Edelmira Baquero-Uribe,85899313V,Público general
+52,Áurea Oliveras Bermúdez,74752529E,Maestro de obra
+53,Brunilda Grau Domínguez,91887369T,Contratista
+54,Leopoldo Tapia,07507864C,Maestro de obra
+55,Goyo de Carballo,04308421S,Contratista
+56,Noelia Mena Gonzalez,53843426N,Contratista
+57,Saturnina Castelló Cardona,08883684A,Maestro de obra
+58,Victoria Céspedes Quero,76125617X,Público general
+59,Mireia Franco Machado,42235350J,Maestro de obra
+60,Godofredo Otero Vergara,87971488F,Contratista
+61,Fito Niño Llamas,53100814R,Público general
+62,Irma Poza-Mayo,61586053B,Maestro de obra
+63,Abraham Ojeda Pla,35551614P,Maestro de obra
+64,Amelia Bou Roselló,33101783E,Público general
+65,Adela Roldan Cabello,75345555Q,Público general
+66,Eufemia Cabezas,35264581S,Público general
+67,Adoración Palmer Prats,78461803V,Contratista
+68,Ágata Maza Jara,78320463N,Contratista
+69,Marina Merino Salgado,48586340J,Maestro de obra
+70,Ricardo Casares Roma,18566572Y,Público general
+71,Yésica Pinto Manzanares,66238574T,Maestro de obra
+72,Moreno Higueras Tapia,06323852W,Maestro de obra
+73,Inmaculada Montserrat Valls,20514014S,Público general
+74,Andrea de Olivares,21472420B,Público general
+75,Concha González Valdés,56661351T,Público general
+76,Prudencia Carreño Santamaria,08526544F,Contratista
+77,Trinidad Buendía Ayala,51220073Q,Público general
+78,Eusebio Eustaquio Zapata Marin,62820592W,Público general
+79,Pascuala Ruano Diaz,33744231B,Público general
+80,José Luis Vera,01540956W,Público general
+81,Marcia del Galindo,96733645S,Maestro de obra
+82,Ernesto Múgica Santamaría,91497616M,Público general
+83,Felicia del Ribes,35812670Z,Público general
+84,Carmela Cal Nebot,45657579A,Maestro de obra
+85,Tiburcio Salom Quirós,39392920S,Contratista
+86,Faustino Bernat Badía,21227574T,Contratista
+87,Nicolás Buendía Ruano,00435578G,Público general
+88,Itziar del Matas,96593904E,Contratista
+89,Esperanza Hoz Villaverde,67187530E,Maestro de obra
+90,Melisa Guitart Cabello,68139880B,Maestro de obra
+91,Miguel Prudencio Tirado Feliu,83926371S,Contratista
+92,Gabriela Peñalver-Villalobos,85758349C,Público general
+93,Araceli Bueno Busquets,81734598G,Maestro de obra
+94,Erasmo Luis Miguel Sainz Manzanares,20513739Q,Contratista
+95,Jose Miguel Hernando-Bilbao,21682744T,Público general
+96,Josep Gutierrez Sacristán,71182864A,Maestro de obra
+97,Cleto Cano Noriega,80388981W,Contratista
+98,Rosendo Grande Parra,65579548Q,Maestro de obra
+99,Azahara Tolosa Sandoval,15014631R,Contratista
+100,Maristela Soto-Benavides,41273847W,Maestro de obra
+101,Jorge Jose Antonio Pulido Blazquez,07774584D,Maestro de obra
+102,Remigio Maldonado Aller,76149359Q,Maestro de obra
+103,Gustavo Grau Toledo,11496211Y,Público general
+104,Pepito Soriano Rocamora,65228535Y,Maestro de obra
+105,Heraclio Guillen-Dávila,71498611Y,Maestro de obra
+106,Silvia Bayo Garriga,17232410M,Público general
+107,Úrsula Barrera Mas,63791320S,Público general
+108,Primitivo Castillo Alberto,22162965G,Contratista
+109,Rosa de Arévalo,70823176N,Público general
+110,Juan Francisco Mayoral Heras,56792612T,Maestro de obra
+111,Adalberto Cuervo Dominguez,72383095W,Público general
+112,Adelia Marcia Valero Alcántara,92592466D,Maestro de obra
+113,Anabel Roca Royo,95690391H,Contratista
+114,Abraham Carrasco Murcia,53551839L,Público general
+115,Silvio Glauco Domingo Montserrat,87225156W,Contratista
+116,Ester Carrasco Sobrino,58800797D,Público general
+117,Poncio Santos Paredes,60597444B,Maestro de obra
+118,Tito Aguilera Somoza,33273328X,Maestro de obra
+119,Mercedes León Rico,08593410N,Contratista
+120,Angelina Galván Baquero,02823170N,Público general
+121,Miriam Balaguer-Malo,74346088Z,Maestro de obra
+122,Calista del Manjón,78979095Q,Maestro de obra
+123,Albina Rosa María Plaza Andres,00965138N,Maestro de obra
+124,Inocencio Folch,95004803Z,Público general
+125,José Tejera Méndez,07901903T,Maestro de obra
+126,Julio César Sala-Chaves,09046318G,Maestro de obra
+127,Marcio Lobo Sáenz,44349361W,Maestro de obra
+128,Ariel Balduino Vicens Casanova,69008866B,Maestro de obra
+129,Silvia Arrieta Cabrera,37376585K,Público general
+130,Carolina Hervás Gárate,65151231M,Maestro de obra
+131,Domingo Gomis Feijoo,72374753D,Maestro de obra
+132,Gabriela Pozuelo Gallart,97086737B,Público general
+133,Alfredo Benito Mayoral Rico,77337818L,Contratista
+134,León Español Roldan,32614537P,Contratista
+135,Kike Tur,54634663A,Maestro de obra
+136,Sosimo Montenegro Rueda,12660194M,Maestro de obra
+137,Faustino Sevilla,88447167T,Contratista
+138,Gervasio del Guillen,47553014P,Contratista
+139,Eulalia Lladó,55177213Y,Contratista
+140,Encarnita Tatiana Sarabia Mur,97854904R,Maestro de obra
+141,Benigna Peñas Riba,90377459V,Público general
+142,Lina Lara Parra,86728778X,Maestro de obra
+143,Noemí Peral,08135295B,Contratista
+144,Isidora Aller Barberá,97739173Y,Contratista
+145,Demetrio del Ayala,14665841Y,Maestro de obra
+146,Almudena Pomares Vendrell,25714784W,Maestro de obra
+147,Cosme Bayo Haro,71979055A,Contratista
+148,Juan Pablo Quintana Moreno,18814949Y,Contratista
+149,Amado Barrena Pombo,24627347M,Contratista
+150,Chucho Lopez Baró,62092888H,Maestro de obra
+151,Chita Casares Arenas,10117988N,Contratista
+152,Domitila Cayetana Antón Diego,73863413V,Maestro de obra
+153,Ariadna Tenorio Perez,06789850C,Público general
+154,Pánfilo Lucena Romeu,72556484V,Maestro de obra
+155,Félix Cerro Morán,12517517C,Maestro de obra
+156,Maribel Segura Marti,22321899P,Contratista
+157,Fidel Jover-Cano,65181648Q,Contratista
+158,Chelo Fabiana Vergara Escamilla,28688676V,Contratista
+159,Eulalia Poza Esteban,07869910T,Maestro de obra
+160,Raquel Vilaplana Caro,50864911C,Maestro de obra
+161,Dionisio Sánchez Marti,52401521T,Contratista
+162,Luz Pacheco-Campoy,61070189Z,Contratista
+163,Elías Prats Simó,56775103V,Público general
+164,Conrado Nadal Prat,98046763V,Público general
+165,Carolina Abigaíl Orozco Pujadas,88834863P,Público general
+166,Apolinar Amo-Gaya,65319931T,Maestro de obra
+167,Toño de Fábregas,25487660A,Contratista
+168,Pastora Alfonso Martí,29219319G,Maestro de obra
+169,Griselda Pedraza,77736262B,Público general
+170,Inocencio Baró Llano,72772208R,Maestro de obra
+171,Hipólito Pintor Llorens,42091325Z,Maestro de obra
+172,Eufemia Torre Oliva,06729990Y,Público general
+173,Clemente Revilla Figueras,63993471L,Público general
+174,Javi Sacristán Pujadas,71286543K,Maestro de obra
+175,Curro Alberdi Céspedes,07634247H,Público general
+176,Omar de Castellanos,10752378Q,Maestro de obra
+177,Lidia Tenorio Casanovas,09196777C,Público general
+178,Prudencio Sainz-Amorós,09121552M,Público general
+179,Débora Oller Salgado,31568532C,Contratista
+180,Jose Antonio Pla Guzmán,16090908Q,Público general
+181,Celestino Coll Abril,33046464H,Público general
+182,Baltasar Canales Barrio,79795010Y,Maestro de obra
+183,Camila Mata Villaverde,83131979C,Maestro de obra
+184,Narcisa Barba Villalba,56267415P,Público general
+185,Gerónimo Páez,78339168H,Público general
+186,Marcia Calderon-Reina,70166708X,Contratista
+187,Aarón Pomares Sedano,34999379A,Maestro de obra
+188,Aristides del Solana,89889098S,Público general
+189,Remedios Acero Valcárcel,42169044Q,Maestro de obra
+190,Lorenza Rovira Sevilla,35650176S,Contratista
+191,Eva María Oliver Marti,17566185G,Público general
+192,Ale Barreda Mayoral,86637649F,Contratista
+193,América Valera Fernandez,61367643D,Contratista
+194,Lucía Bermúdez Camino,09736572M,Maestro de obra
+195,Marcia Solís Goicoechea,61510041Z,Público general
+196,Donato Barba Cámara,75563727X,Maestro de obra
+197,Luís Company Amor,09832887L,Público general
+198,Candelario Pazos,28609087P,Público general
+199,Alejandra Jurado Jerez,35594597G,Maestro de obra
+200,Marisa Muro-Sanmiguel,46843172S,Maestro de obra
