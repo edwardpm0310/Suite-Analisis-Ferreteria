@@ -1,101 +1,101 @@
 id_producto,nombre,categoria,precio,stock
-1,Producto Elé 1,Eléctricas,58.58,50
-2,Producto Plo 2,Plomería,125.89,190
-3,Producto Pin 3,Pinturas,93.69,177
-4,Producto Ele 4,Electricidad,6.13,151
-5,Producto Pin 5,Pinturas,140.1,36
-6,Producto Elé 6,Eléctricas,43.35,37
-7,Producto Tor 7,Tornillería,85.22,79
-8,Producto Pin 8,Pinturas,92.7,193
-9,Producto Pin 9,Pinturas,34.52,172
-10,Producto Pin 10,Pinturas,78.28,74
-11,Producto Her 11,Herramientas manuales,18.38,118
-12,Producto Pin 12,Pinturas,11.39,95
-13,Producto Elé 13,Eléctricas,97.38,77
-14,Producto Elé 14,Eléctricas,112.48,151
-15,Producto Tor 15,Tornillería,67.01,12
-16,Producto Her 16,Herramientas manuales,15.91,186
-17,Producto Elé 17,Eléctricas,84.11,104
-18,Producto Ele 18,Electricidad,85.12,120
-19,Producto Elé 19,Eléctricas,11.07,103
-20,Producto Her 20,Herramientas manuales,135.34,63
-21,Producto Tor 21,Tornillería,41.18,36
-22,Producto Pin 22,Pinturas,118.12,114
-23,Producto Ele 23,Electricidad,113.67,70
-24,Producto Elé 24,Eléctricas,146.55,55
-25,Producto Plo 25,Plomería,8.59,198
-26,Producto Pin 26,Pinturas,118.45,115
-27,Producto Tor 27,Tornillería,130.29,73
-28,Producto Pin 28,Pinturas,28.08,189
-29,Producto Her 29,Herramientas manuales,60.47,19
-30,Producto Plo 30,Plomería,37.25,127
-31,Producto Pin 31,Pinturas,49.25,68
-32,Producto Elé 32,Eléctricas,8.43,59
-33,Producto Plo 33,Plomería,52.6,27
-34,Producto Pin 34,Pinturas,55.92,140
-35,Producto Plo 35,Plomería,103.53,147
-36,Producto Pin 36,Pinturas,141.19,39
-37,Producto Pin 37,Pinturas,30.89,77
-38,Producto Her 38,Herramientas manuales,20.72,121
-39,Producto Pin 39,Pinturas,110.64,90
-40,Producto Plo 40,Plomería,92.9,140
-41,Producto Her 41,Herramientas manuales,60.85,157
-42,Producto Elé 42,Eléctricas,41.93,191
-43,Producto Plo 43,Plomería,5.25,147
-44,Producto Tor 44,Tornillería,109.32,199
-45,Producto Tor 45,Tornillería,102.24,103
-46,Producto Plo 46,Plomería,15.15,180
-47,Producto Pin 47,Pinturas,95.36,179
-48,Producto Her 48,Herramientas manuales,109.36,86
-49,Producto Ele 49,Electricidad,49.85,114
-50,Producto Pin 50,Pinturas,63.35,85
-51,Producto Ele 51,Electricidad,23.46,117
-52,Producto Tor 52,Tornillería,141.35,183
-53,Producto Tor 53,Tornillería,135.91,167
-54,Producto Ele 54,Electricidad,48.64,150
-55,Producto Her 55,Herramientas manuales,49.06,63
-56,Producto Plo 56,Plomería,118.94,165
-57,Producto Tor 57,Tornillería,51.73,123
-58,Producto Plo 58,Plomería,102.97,140
-59,Producto Plo 59,Plomería,120.09,198
-60,Producto Elé 60,Eléctricas,100.53,82
-61,Producto Ele 61,Electricidad,101.26,168
-62,Producto Pin 62,Pinturas,18.54,70
-63,Producto Tor 63,Tornillería,50.01,60
-64,Producto Elé 64,Eléctricas,8.54,72
-65,Producto Plo 65,Plomería,93.63,28
-66,Producto Plo 66,Plomería,65.09,171
-67,Producto Ele 67,Electricidad,33.19,188
-68,Producto Plo 68,Plomería,76.68,72
-69,Producto Elé 69,Eléctricas,100.13,11
-70,Producto Her 70,Herramientas manuales,117.87,66
-71,Producto Elé 71,Eléctricas,121.6,188
-72,Producto Ele 72,Electricidad,72.36,152
-73,Producto Elé 73,Eléctricas,138.03,41
-74,Producto Plo 74,Plomería,24.33,128
-75,Producto Tor 75,Tornillería,82.01,153
-76,Producto Ele 76,Electricidad,51.01,123
-77,Producto Ele 77,Electricidad,123.18,139
-78,Producto Plo 78,Plomería,125.43,150
-79,Producto Plo 79,Plomería,135.1,200
-80,Producto Plo 80,Plomería,70.26,73
-81,Producto Tor 81,Tornillería,45.21,143
-82,Producto Plo 82,Plomería,95.88,80
-83,Producto Plo 83,Plomería,16.24,83
-84,Producto Elé 84,Eléctricas,44.4,91
-85,Producto Ele 85,Electricidad,16.68,48
-86,Producto Elé 86,Eléctricas,60.54,49
-87,Producto Tor 87,Tornillería,36.02,116
-88,Producto Plo 88,Plomería,52.98,129
-89,Producto Plo 89,Plomería,14.03,117
-90,Producto Plo 90,Plomería,136.2,159
-91,Producto Tor 91,Tornillería,7.83,157
-92,Producto Plo 92,Plomería,74.16,100
-93,Producto Pin 93,Pinturas,114.25,117
-94,Producto Ele 94,Electricidad,113.39,149
-95,Producto Ele 95,Electricidad,135.18,134
-96,Producto Elé 96,Eléctricas,44.58,134
-97,Producto Her 97,Herramientas manuales,61.38,181
-98,Producto Tor 98,Tornillería,120.73,195
-99,Producto Elé 99,Eléctricas,126.87,42
-100,Producto Ele 100,Electricidad,82.45,110
+1,"Tornillo Autoperforante 8 x 1"" Caja x 100",Tornillería,15.81,20
+2,"Tornillo Autoperforante 10 x 2"" Caja x 100",Tornillería,14.06,38
+3,"Tornillo Autoperforante 8 x 1/2"" Caja x 200",Tornillería,22.52,31
+4,"Tornillo Drywall 6 x 1"" Caja x 500",Tornillería,29.51,8
+5,"Tornillo Madera 10 x 3"" Caja x 50",Tornillería,16.31,13
+6,"Clavo de Fierro 2"" 1 kg",Tornillería,13.88,33
+7,"Clavo de Fierro 3"" 1 kg",Tornillería,10.54,4
+8,"Clavo de Fierro 4"" 1 kg",Tornillería,8.67,68
+9,"Clavo de Albañil 3"" 1 kg",Tornillería,13.75,43
+10,"Clavo de Calamina 2 1/2"" 1 kg",Tornillería,12.06,28
+11,"Tuerca Hexagonal 1/4"" Caja x 100",Tornillería,9.97,23
+12,"Tuerca Hexagonal 3/8"" Caja x 50",Tornillería,16.72,16
+13,"Arandela Plana 1/2"" Caja x 100",Tornillería,17.93,10
+14,"Arandela de Presión 3/8"" Caja x 100",Tornillería,10.09,33
+15,"Perno de Anclaje 3/8"" x 4""",Tornillería,9.12,44
+16,"Perno de Anclaje 1/2"" x 5""",Tornillería,8.19,25
+17,Tarugo PVC 8 mm x 100 unid,Tornillería,6.55,90
+18,Tarugo PVC 10 mm x 50 unid,Tornillería,6.29,71
+19,"Tirafondo 1/4"" x 2"" Caja x 100",Tornillería,17.54,23
+20,"Remache Pop 1/8"" Caja x 100",Tornillería,11.4,49
+21,"Abrazadera Omega 1/2"" x 50",Tornillería,14.41,13
+22,"Grapa de Cerco 1 1/2""",Tornillería,12.59,13
+23,"Tornillo Fijación 3/16"" Caja x 100",Tornillería,12.4,25
+24,"Espárrago Roscado 1/4"" x 1 m",Tornillería,5.01,11
+25,"Cadena Galvanizada 1/8"" x metro",Tornillería,11.51,5
+26,Cable THW 14 AWG x 100 m,Electricidad,172.5,8
+27,Cable THW 12 AWG x 100 m,Electricidad,198.51,3
+28,Cable Mellizo 2x16 x 100 m,Electricidad,240.64,7
+29,Cable Vulcanizado 2x18 x 50 m,Electricidad,120.11,5
+30,"Tubo Conduit PVC 3/4"" x 3 m",Electricidad,13.91,22
+31,"Tubo Conduit PVC 1"" x 3 m",Electricidad,19.85,20
+32,"Curva Conduit PVC 3/4""",Electricidad,3.56,31
+33,Caja Octogonal PVC,Electricidad,4.17,8
+34,Caja Rectangular PVC,Electricidad,3.49,34
+35,Tomacorriente Doble 15A,Electricidad,13.52,58
+36,Tomacorriente con Tierra 15A,Electricidad,11.84,12
+37,Interruptor Simple 10A,Electricidad,8.62,29
+38,Interruptor Doble 10A,Electricidad,8.36,3
+39,Breaker Monofásico 20A,Electricidad,35.32,20
+40,Breaker Monofásico 32A,Electricidad,25.46,8
+41,Tablero Eléctrico 12 Polos,Electricidad,91.28,2
+42,Cinta Aislante Negra x 20 m,Electricidad,4.77,77
+43,Cinta Aislante Roja x 20 m,Electricidad,7.68,43
+44,Foco LED 9W Luz Fría,Electricidad,14.83,41
+45,Portalámpara Colgante E27,Electricidad,9.48,32
+46,"Tubo PVC SAP 1/2"" x 3 m",Plomería,21.24,27
+47,"Tubo PVC SAP 3/4"" x 3 m",Plomería,30.81,7
+48,"Tubo PVC SAP 1"" x 3 m",Plomería,18.05,25
+49,"Tubo Desagüe 2"" x 3 m",Plomería,47.16,11
+50,"Tubo Desagüe 4"" x 3 m",Plomería,25.42,27
+51,"Codo PVC 1/2"" x 90°",Plomería,4.58,37
+52,"Codo PVC 3/4"" x 90°",Plomería,5.89,63
+53,"Codo PVC 1"" x 90°",Plomería,4.83,11
+54,"Tee PVC 1/2""",Plomería,3.38,39
+55,"Tee PVC 3/4""",Plomería,5.96,27
+56,"Llave Esférica 1/2""",Plomería,24.5,16
+57,"Llave Esférica 3/4""",Plomería,42.59,19
+58,"Válvula Check 1/2""",Plomería,20.63,17
+59,"Unión Universal 1/2""",Plomería,12.21,77
+60,Pegamento PVC 1/4 Galón,Plomería,26.92,31
+61,"Teflón 1/2"" x 10 m",Plomería,4.36,64
+62,"Llave de Paso 1/2""",Plomería,37.41,19
+63,"Flotador de Tanque 1/2""",Plomería,19.34,23
+64,"Sifón PVC 1 1/4""",Plomería,20.61,7
+65,Inodoro Tanque Bajo Blanco,Plomería,258.87,5
+66,Látex Lavable Blanco Hueso 1 Galón,Pinturas,64.61,5
+67,Látex Lavable Blanco Humo 1 Galón,Pinturas,75.94,5
+68,Látex Mate Blanco Hueso 1/4 Galón,Pinturas,37.56,4
+69,Látex Mate Celeste Cielo 1 Galón,Pinturas,96.33,26
+70,Látex Mate Gris Perla 1 Galón,Pinturas,86.61,1
+71,Óleo Mate Blanco Hueso 1/4 Galón,Pinturas,30.59,15
+72,Óleo Brillante Azul Colonial 1 Galón,Pinturas,64.87,5
+73,Esmalte Sintético Verde Sauces 1 Galón,Pinturas,78.19,10
+74,Esmalte Sintético Amarillo Tráfico 1/4 Galón,Pinturas,30.12,17
+75,Esmalte Brillante Negro Mate 1 Galón,Pinturas,96.8,2
+76,Anticorrosivo Gris Perla 1 Galón,Pinturas,104.12,18
+77,Fondo Antióxido Negro 1 Galón,Pinturas,99.23,4
+78,Base Selladora Blanca 1 Galón,Pinturas,61.66,5
+79,Barniz Marino Brillante 1/4 Galón,Pinturas,40.74,18
+80,Thinner Acrílico 1 Litro,Pinturas,12.15,8
+81,Martillo Carpintero 16 oz Mango Madera,Herramientas manuales,29.73,9
+82,Martillo de Bola 24 oz,Herramientas manuales,49.53,23
+83,"Desarmador Plano 6"" Cromo Vanadio",Herramientas manuales,14.83,40
+84,"Desarmador Estrella 6"" Cromo Vanadio",Herramientas manuales,22.41,5
+85,Wincha 5 m Acero,Herramientas manuales,28.77,16
+86,Flexómetro 8 m,Herramientas manuales,23.52,22
+87,"Llave Inglesa 10""",Herramientas manuales,52.03,5
+88,"Alicate Universal 8""",Herramientas manuales,51.78,14
+89,"Alicate de Presión 10""",Herramientas manuales,48.79,11
+90,"Serrucho 20""",Herramientas manuales,26.03,7
+91,Nivel de Burbuja 60 cm,Herramientas manuales,59.47,2
+92,Cuchilla de Vidia,Herramientas manuales,12.31,29
+93,Taladro Percutor 650W Compacto,Eléctricas,259.79,5
+94,"Esmeril Angular 4 1/2"" 820W Profesional",Eléctricas,417.36,3
+95,Caladora 500W Compacto,Eléctricas,336.23,5
+96,Lijadora Orbital 240W,Eléctricas,354.56,1
+97,Atornillador 12V Compacto,Eléctricas,329.96,0
+98,Amoladora 900W,Eléctricas,182.07,5
+99,Pistola de Calor 1800W,Eléctricas,155.95,2
+100,"Sierra Circular 7 1/4"" 1400W",Eléctricas,634.23,1
